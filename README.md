@@ -2,8 +2,13 @@
 
 I'm a software developer, specializing in building exceptional websites, mobile applications and games, and everything in between.
 
+👀 I'm interested in Fullstack development and Games.  
+🌱 I’m currently learning AI, machine learning, neural networks and deep learning.
+📖 In the near future I want to learn DevOps 
+💬 Ask me about anything at all!  
+📫 Say Hi via  najeebibraheem1999@hotmail.com.  
 
-# Languages and Tools
+# Languages and Tools  
 
 <img src="https://github.com/najeebib/najeebib/assets/79699737/1f67d5a3-6530-4d7a-9327-799227187678" alt="linux_Logo" width="50" height="50">  
 <img src="https://github.com/najeebib/najeebib/assets/79699737/e7eb1d88-c5fa-4933-b824-889f3d75f128" alt="C_Logo" width="50" height="50">        
@@ -26,7 +31,7 @@ I'm a software developer, specializing in building exceptional websites, mobile 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
