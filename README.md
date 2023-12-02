@@ -21,7 +21,7 @@ I'm a software developer, specializing in building exceptional websites, mobile 
 <img src="https://github.com/najeebib/najeebib/assets/79699737/0e8f491d-d71a-4ff1-84b7-43b5c0395637" alt="CSS_Logo" width="50" height="50">
 <img src="https://github.com/najeebib/najeebib/assets/79699737/9481a0e6-3a22-4e6e-8016-f28f850ac38f" alt="REACT_Logo" width="50" height="50">
 <img src="https://github.com/najeebib/najeebib/assets/79699737/7b8abcab-9bf9-4778-971d-d1ef5860d961" alt="NodeJS_Logo" width="50" height="50">
-<img src="https://github.com/najeebib/najeebib/assets/79699737/25c9bf43-22bd-4ec5-9b45-eb3a6297e75d" alt="MongoDB_Logo" width="120" height="50">
+<img src="https://github.com/najeebib/najeebib/assets/79699737/944bcfb2-8bd9-4607-8ad9-ada66171f078" alt="MongoDB_Logo" width="50" height="50">
 <img src="https://github.com/najeebib/najeebib/assets/79699737/2de9c46c-003d-422a-8ff9-98d0823409df" alt="MySQL_Logo" width="50" height="50">
 <img src="https://github.com/najeebib/najeebib/assets/79699737/1be1f2d5-6b07-4fef-9fab-afb0299b42c8" alt="Firebase_Logo" width="50" height="50">
 
