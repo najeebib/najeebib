@@ -3,8 +3,8 @@
 I'm a software developer, specializing in building exceptional websites, mobile applications and games, and everything in between.
 
 👀 I'm interested in Fullstack development and Games.  
-🌱 I’m currently learning AI, machine learning, neural networks and deep learning.
-📖 In the near future I want to learn DevOps 
+🌱 I’m currently learning AI, machine learning, neural networks and deep learning.  
+📖 In the near future I want to learn DevOps.   
 💬 Ask me about anything at all!  
 📫 Say Hi via  najeebibraheem1999@hotmail.com.  
 
