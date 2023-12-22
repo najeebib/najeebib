@@ -11,7 +11,6 @@ I'm a software developer, specializing in building exceptional websites, mobile 
 
 # Languages and Tools  
 
-<img src="https://github.com/najeebib/najeebib/assets/79699737/1f67d5a3-6530-4d7a-9327-799227187678" alt="linux_Logo" width="50" height="50">  
 <img src="https://github.com/najeebib/najeebib/assets/79699737/e7eb1d88-c5fa-4933-b824-889f3d75f128" alt="C_Logo" width="50" height="50">        
 <img src="https://github.com/najeebib/najeebib/assets/79699737/2d62434d-6d20-4f53-b9f4-f91a661da5ae" alt="CPP_Logo" width="50" height="50">
 <img src="https://github.com/najeebib/najeebib/assets/79699737/4189e173-99d0-46f6-83c6-c504213f5e0a" alt="CSHARP_Logo" width="50" height="50">
