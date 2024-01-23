@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Najeeb Ibrahim
 
-I'm a software developer, specializing in building exceptional websites, mobile applications and games.     
+I'm a software developer, specializing in building exceptional websites, mobile applications, GUIs and games.     
 👀 I'm interested in Fullstack development and Games.  
 🌱 I’m currently learning AI, machine learning, neural networks and deep learning.  
 📖 In the near future I want to learn DevOps.   
